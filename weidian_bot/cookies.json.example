@@ -1,0 +1,14 @@
+[
+  {
+    "domain": ".weidian.com",
+    "name": "example_cookie",
+    "value": "placeholder_value",
+    "path": "/",
+    "expirationDate": 1798765432,
+    "hostOnly": false,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "storeId": null
+  }
+]
